@@ -1,0 +1,39 @@
+#bannerimg{
+    height:275px ;
+    width: 960px;
+    border: 1px solid ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+
+}
+#nav{
+    text-align: center;
+    padding: 10px;
+    
+}
+.anchor{
+    text-decoration: none;
+    padding: 5px;
+    
+
+}
+.sidebar{
+    border-right: 1px solid;
+}
+#items{
+    text-align: center;
+}
+.product{
+    display: inline;
+    height: 180px;
+    width: 200px ;
+    border: 1px solid black;
+}
+ul.b{
+    list-style-type: circle;
+}
+ul.a{
+    list-style-type: disc;
+}
